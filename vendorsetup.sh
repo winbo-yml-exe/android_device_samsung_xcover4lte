@@ -1,1 +1,1 @@
-add_lunch_combo omni_xcover4lte-eng
+add_lunch_combo twrp_xcover4lte-eng
